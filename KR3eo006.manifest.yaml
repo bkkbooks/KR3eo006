@@ -1,0 +1,731 @@
+canonical_identifier: bkk:krp/KR3eo006/v1
+canonical_location: https://kanripo.org/bkk/KR3eo006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 壽世青編
+  identifiers:
+    krp: KR3eo006
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo006.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eo006_001.yaml, hash: 'sha256:201eafcb31ae51c7adff54fa1f81570c6a8fc1b3d59e0ecd68b93e127735d69f'}
+  - {seq: 3, filename: KR3eo006_003.yaml, hash: 'sha256:fae49d44eddbc8ca27eec1b1df65fc40e0037a1708e7745ec5b8086e8f70e333'}
+  - {seq: 0, filename: KR3eo006_000.yaml, hash: 'sha256:0df3ddd86bef2aa3624f1f48375452be3cea0e5994d368f01ff0f52b3f3312d7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eo006_001.markers.yaml, hash: 'sha256:124170ddba9f4f65a46b8d40eddf23210523471e8de65b8361a8efa415aaf075'}
+  - {seq: 3, role: markers, filename: assets/KR3eo006_003.markers.yaml, hash: 'sha256:aad06e419b47010c73c37f08dfb398079846ef8c71c382479f3c8834334f3de8'}
+  - {seq: 0, role: markers, filename: assets/KR3eo006_000.markers.yaml, hash: 'sha256:5d396cbe24e32ebcd45eb1be584d4b6d00a6e45280eb120cb1ae1aefed463bdc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 14330
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 478
+  label: 勿藥須知
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d3
+    span:
+    - body
+    - 478
+    - 2330
+  label: 療心法言
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d4
+    span:
+    - body
+    - 2330
+    - 2566
+  label: 林鑑堂安心詩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d5
+    span:
+    - body
+    - 2566
+    - 2804
+  label: 養心說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d6
+    span:
+    - body
+    - 2804
+    - 3061
+  label: 養肝說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d7
+    span:
+    - body
+    - 3061
+    - 3323
+  label: 養脾說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d8
+    span:
+    - body
+    - 3323
+    - 3490
+  label: 養肺說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d9
+    span:
+    - body
+    - 3490
+    - 3814
+  label: 養腎說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d10
+    span:
+    - body
+    - 3814
+    - 3964
+  label: 齋說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d11
+    span:
+    - body
+    - 3964
+    - 4164
+  label: 食忌說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d12
+    span:
+    - body
+    - 4164
+    - 4248
+  label: 食飲以宜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d13
+    span:
+    - body
+    - 4248
+    - 4467
+  label: 居室安處論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d14
+    span:
+    - body
+    - 4467
+    - 4661
+  label: 居處宜忌說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d15
+    span:
+    - body
+    - 4661
+    - 4739
+  label: 寢室宜忌說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d16
+    span:
+    - body
+    - 4739
+    - 4820
+  label: 臥時祝法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d17
+    span:
+    - body
+    - 4820
+    - 4946
+  label: 睡訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d18
+    span:
+    - body
+    - 4946
+    - 5680
+  label: 孫真人衛生歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d19
+    span:
+    - body
+    - 5680
+    - 6358
+  label: 真西山衛生歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d20
+    span:
+    - body
+    - 6358
+    - 6421
+  label: 養神氣銘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d21
+    span:
+    - body
+    - 6421
+    - 6527
+  label: 孫真人養生銘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d22
+    span:
+    - body
+    - 6527
+    - 6761
+  label: 謹疾箴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d23
+    span:
+    - body
+    - 6761
+    - 7017
+  label: 導引卻病法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d24
+    span:
+    - body
+    - 7017
+    - 7426
+  label: 內養下手訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d25
+    span:
+    - body
+    - 7426
+    - 7751
+  label: 運氣法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d26
+    span:
+    - body
+    - 7751
+    - 7931
+  label: 固精法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d27
+    span:
+    - body
+    - 7931
+    - 8147
+  label: 定神法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d28
+    span:
+    - body
+    - 8147
+    - 9360
+  label: 十二段動功
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d29
+    span:
+    - body
+    - 9360
+    - 10328
+  label: 四時攝生篇
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d30
+    span:
+    - body
+    - 10328
+    - 11157
+  label: 十二時無病法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d31
+    span:
+    - body
+    - 11157
+    - 11610
+  label: 靜功六字卻病法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d32
+    span:
+    - body
+    - 11610
+    - 11658
+  label: 念六字口訣歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d33
+    span:
+    - body
+    - 11658
+    - 11721
+  label: 四季卻病六字決
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d34
+    span:
+    - body
+    - 11721
+    - 12780
+  label: 調息
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d35
+    span:
+    - body
+    - 12780
+    - 13209
+  label: 清心說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo006_jc_001-d2d36
+    span:
+    - body
+    - 13209
+    - 14330
+  label: 修養余言
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6666
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 304
+  label: 服藥須知
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d3
+    span:
+    - body
+    - 304
+    - 1535
+  label: 煎藥有法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d4
+    span:
+    - body
+    - 1535
+    - 1848
+  label: 服藥忌食
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d5
+    span:
+    - body
+    - 1848
+    - 2036
+  label: 飲食禁忌節要
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d6
+    span:
+    - body
+    - 2036
+    - 2161
+  label: 病有十失
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d7
+    span:
+    - body
+    - 2161
+    - 2254
+  label: 病有八不治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d8
+    span:
+    - body
+    - 2254
+    - 2447
+  label: 卻病十要
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d9
+    span:
+    - body
+    - 2447
+    - 2619
+  label: 病有七失不可治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d10
+    span:
+    - body
+    - 2619
+    - 2888
+  label: 老人病不同治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d11
+    span:
+    - body
+    - 2888
+    - 3124
+  label: 治婦人病有不能盡法之弊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d12
+    span:
+    - body
+    - 3124
+    - 3241
+  label: 妄庸議病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d13
+    span:
+    - body
+    - 3241
+    - 3418
+  label: 古方無妄用
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d14
+    span:
+    - body
+    - 3418
+    - 3612
+  label: 草藥不可妄用
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d15
+    span:
+    - body
+    - 3612
+    - 3678
+  label: 真菊野菊
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d16
+    span:
+    - body
+    - 3678
+    - 3712
+  label: 服餌忌羊血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d17
+    span:
+    - body
+    - 3712
+    - 3962
+  label: 論婦人病有不同治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d18
+    span:
+    - body
+    - 3962
+    - 5034
+  label: 用藥例丸散湯膏各有所宜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo006_jc_003-d3d19
+    span:
+    - body
+    - 5034
+    - 6666
+  label: 藥品制度法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 4913
+  label: 病後調理服食法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d30
+    span:
+    - body
+    - 501
+    - 706
+  label: 食治秘方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d31
+    span:
+    - body
+    - 706
+    - 948
+  label: 風門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d32
+    span:
+    - body
+    - 948
+    - 1268
+  label: 寒門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d33
+    span:
+    - body
+    - 1268
+    - 1412
+  label: 暑門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d34
+    span:
+    - body
+    - 1412
+    - 2177
+  label: 濕門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d35
+    span:
+    - body
+    - 2177
+    - 2493
+  label: 燥門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d36
+    span:
+    - body
+    - 2493
+    - 2907
+  label: 火門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d37
+    span:
+    - body
+    - 2907
+    - 3654
+  label: 調理脾胃門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d38
+    span:
+    - body
+    - 3654
+    - 3852
+  label: 氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d39
+    span:
+    - body
+    - 3852
+    - 4142
+  label: 血門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d40
+    span:
+    - body
+    - 4142
+    - 4173
+  label: 痰門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d41
+    span:
+    - body
+    - 4173
+    - 4290
+  label: 陰虛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d42
+    span:
+    - body
+    - 4290
+    - 4440
+  label: 陽虛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo006_jc_000-d4d43
+    span:
+    - body
+    - 4440
+    - 4913
+  label: 諸虛門
+  type: section
+  level: 2
+hash: sha256:a8c0c0c99d5212fc8f35d20603a64b0124bc162fe317939b599c1ae1780f68ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
