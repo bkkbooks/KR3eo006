@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo006/v1
 canonical_location: https://kanripo.org/bkk/KR3eo006/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 壽世青編
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eo006_001.yaml, hash: 'sha256:238866d464255b36adf6303c37e51295884d04f2ff5d5670ed9cc327aca61f3b'}
-  - {seq: 3, filename: KR3eo006_003.yaml, hash: 'sha256:39760a26f32545a9658a235c6f9726bd3c43aedb8b6ef60cc8ed4c38fc1147a7'}
-  - {seq: 0, filename: KR3eo006_000.yaml, hash: 'sha256:d746a55d4850dc0e11ce8600098b804355c733fbffb143e0cb4225ba6cfda2e9'}
+  - {seq: 1, filename: KR3eo006_001.yaml, hash: 'sha256:8ad342a0abf4c0f83460a8be7b199da8339ae35e14494443eb8f78fa7139d7e1'}
+  - {seq: 3, filename: KR3eo006_003.yaml, hash: 'sha256:1f2e80fd27116d177f8321408f674a95c80326d8dbf5c72d19046ea6d15166f5'}
+  - {seq: 0, filename: KR3eo006_000.yaml, hash: 'sha256:2307422f45179512f654a037e1e7990f1e6eec35779c97b5decf73f3282fdd3f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eo006_001.markers.yaml, hash: 'sha256:a03c5e8c9c0cb23b30a83c0a55cbfb8e92002b66a5cc39907b3b2f1287ee22d7'}
-  - {seq: 3, role: markers, filename: assets/KR3eo006_003.markers.yaml, hash: 'sha256:5d9940c967d0624cb94867231b9f92ec53cf799378d860a764017da4c059f913'}
-  - {seq: 0, role: markers, filename: assets/KR3eo006_000.markers.yaml, hash: 'sha256:bc362a0828921f0d4e3cc1beb56b9da6c1c9587dc2ad218dc68c40e7b31e8e7d'}
+  - {seq: 1, role: markers, filename: assets/KR3eo006_001.markers.yaml, hash: 'sha256:c7211be0d1f56f01eb202207dcf40c22939667933d164abac7ce87f147e049c5'}
+  - {seq: 3, role: markers, filename: assets/KR3eo006_003.markers.yaml, hash: 'sha256:9b541be576fe7a0c55467eeb30734ddcd49d27c7a22748060662a3415deb4813'}
+  - {seq: 0, role: markers, filename: assets/KR3eo006_000.markers.yaml, hash: 'sha256:03959e55e1dc605b7a42c45f37d5edd76a48d847f605d98e6ff35ef1c981f282'}
 table_of_contents:
 - ref:
     seq: 1
@@ -725,4 +725,7 @@ table_of_contents:
   label: 諸虛門
   type: section
   level: 2
-hash: sha256:f33c6dd15b580b6cf4663271bff8868f0edf0dad579ce8aa96b19580a29edb9f
+hash: sha256:e589284ce237973b046bf9fffcffe1490fb015cdfb35f12597583bb29b3b36a9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
